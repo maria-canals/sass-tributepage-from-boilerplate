@@ -32,3 +32,8 @@
   }
 }
 
+// add a border
+@mixin addBorder($border-weight) {
+  border: $border-weight solid $brand-color;
+}
+

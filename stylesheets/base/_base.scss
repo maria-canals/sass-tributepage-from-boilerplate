@@ -33,3 +33,19 @@ a {
     text-decoration: underline;
   }
 }
+
+ul {
+  list-style-type: square;
+  li {
+    margin-top: 10px;
+  }
+}
+
+h1 {
+  margin: 0 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
